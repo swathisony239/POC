@@ -1,0 +1,7 @@
+<html>
+<body>
+   name:<span id="result1"></span></br>
+   category:<span id="result2"></span></br>
+   price:<span id="result3"></span>
+</body>
+</html>
