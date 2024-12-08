@@ -1,0 +1,7 @@
+<html>
+ <body>
+        employee id:<span id="result1"></span></br>
+        employee name:<span id="result2"></span></br>
+        employee location:<span id="result3"></span></br>
+ </body>
+</html>
